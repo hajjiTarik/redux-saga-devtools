@@ -25,9 +25,9 @@
     "tape": "^4.6.2"
   },
   "dependencies": {
-    "react": "^15.3.2",
-    "react-dom": "^15.3.2",
-    "styled-components": "^1.0.11"
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "styled-components": "^4.0.0"
   },
   "peerDependecies": {
     "redux-saga": "^0.13.0"
